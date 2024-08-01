@@ -1,3 +1,3 @@
-This is my first DS PrOJECT
+This is my first DataScience PROJECT
 
 Hello Code World
